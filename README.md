@@ -1,4 +1,4 @@
-# MapReduce model
+# MapReduce Model
 MapReduce 模型
 本项目实现了一个简单的 MapReduce 模型，用于在分布式系统中并行处理大规模数据集。
 
